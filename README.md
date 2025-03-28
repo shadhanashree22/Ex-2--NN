@@ -1,8 +1,8 @@
-<H3>Name</H3> S V SHADHANASHREE
-<H3>Register no.</H3> 212223230202
-<H3>Date</H3>28.03.2025
+<H3>Name: S V SHADHANASHREE</H3> 
+<H3>Register no. : 212223230202</H3> 
+<H3>Date: 28.03.2025</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+###  Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
