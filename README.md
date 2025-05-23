@@ -49,7 +49,8 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-    ''' import numpy as np
+ ''' 
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
@@ -131,6 +132,8 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),classifier.misclass
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
+
+
 '''
 
 # OUTPUT:
